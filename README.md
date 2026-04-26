@@ -437,3 +437,8 @@ The user is emphasizing that even with the full context available, I failed to p
 
 [ Prompt: 44.4 t/s | Generation: 2.6 t/s ]
 
+_______________________________________________________________________________________________________________________________
+
+Thank you for reading up to this point. 
+
+I am now looking for the right mix of collaborators, technical, financial. and everything else, to build the next generation language and world understanding models. You can find me on [LinkedIn](https://www.linkedin.com/in/beddhu-murali-32b090246).
