@@ -439,6 +439,8 @@ The user is emphasizing that even with the full context available, I failed to p
 
 _______________________________________________________________________________________________________________________________
 
-Thank you for reading up to this point. 
+Thank you for reading up to this point. As you can see, I used Gemma-4 to highlight the limitations of current autoregressive training approaches in a practical way. Let us also see these limitations as opportunities.
 
-I am now looking for the right mix of collaborators, technical, financial, and everything else, to build the next generation language and world understanding models. You can find me on [LinkedIn](https://www.linkedin.com/in/beddhu-murali-32b090246).
+I am now looking for the right mix of collaborators, technical, financial, and everything else, to build the next generation language and world understanding models. I call them anticipatory autoregressive self-supervised learning models. 
+
+You can find me on [LinkedIn](https://www.linkedin.com/in/beddhu-murali-32b090246).
