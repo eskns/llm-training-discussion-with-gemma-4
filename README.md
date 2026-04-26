@@ -4,7 +4,7 @@ Gemma-4 concedes to my point in a beautifully eloquent manner. The point I am ma
 My questions/prompts are in bold blue. I ran Gemma-4 locally on my laptop using llama.cpp like so: `./build/bin/llama-cli   -m ./models/gemma-4-31B-it-Q4_K_M.gguf   -p ""   -n 4096   -ngl 70`. Here is the conversation.
 
 
-**> In a sense LLMs are not trained to anticipate. They can only rely on memory.**
+<span style="color: #2ECC71;"> **> In a sense LLMs are not trained to anticipate. They can only rely on memory.** </span>
 
 [Start thinking]
 LLMs are not trained to *anticipate*; they only rely on *memory*.
