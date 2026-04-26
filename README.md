@@ -441,4 +441,4 @@ ________________________________________________________________________________
 
 Thank you for reading up to this point. 
 
-I am now looking for the right mix of collaborators, technical, financial. and everything else, to build the next generation language and world understanding models. You can find me on [LinkedIn](https://www.linkedin.com/in/beddhu-murali-32b090246).
+I am now looking for the right mix of collaborators, technical, financial, and everything else, to build the next generation language and world understanding models. You can find me on [LinkedIn](https://www.linkedin.com/in/beddhu-murali-32b090246).
