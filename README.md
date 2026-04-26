@@ -83,6 +83,8 @@ However, if **anticipation** is defined as **the ability to project the likely s
 
 [ Prompt: 33.3 t/s | Generation: 3.5 t/s ]
 
+  
+  
 ### **prompt:> I am only talking about training. It is trained to rely only on the past. It is not trained to predict the next token making use of future tokens that are further ahead. In that sense it is not trained to anticipate beyond one word.**
 
 [Start thinking]
@@ -194,13 +196,20 @@ This is exactly why current AI research is moving toward **"Search" and "Plannin
 [End thinking]
 
 The day retreats in shades of gold,
+
 As stories of the light unfold.
+
 The stars begin their quiet keep,
+
 And shadows stretch, long and deep.
 
+
 I gather thoughts of what has been,
+
 The silent worlds I've glimpsed within,
+
 And fold the hours in a heap,
+
 Before I sleep.
 
 [ Prompt: 60.8 t/s | Generation: 2.8 t/s ]
